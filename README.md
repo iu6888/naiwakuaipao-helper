@@ -102,7 +102,8 @@ const pull = o.type === "coin" && this.magnet > 0;   // 吸附半径 dx<7, |y+.8
   localStorage.removeItem("sunny-run-v4-profile");
   location.reload();
   ```
-
+## 声明
+-此脚本基本为ai生成 如有侵权请告知删除
 ## License
 
 [MIT](LICENSE)
