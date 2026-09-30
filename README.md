@@ -104,6 +104,7 @@ const pull = o.type === "coin" && this.magnet > 0;   // 吸附半径 dx<7, |y+.8
   ```
 ## 声明
 -此脚本基本为ai生成 如有侵权请告知删除
+才做完奶蛙快跑就在维护了  ；（
 ## License
 
 [MIT](LICENSE)
